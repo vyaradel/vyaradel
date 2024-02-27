@@ -31,6 +31,8 @@
 
 ---
 
-<summary>:zap: GitHub Stats</summary>
+:zap: GitHub Stats
 
+![Vyara's GitHub stats](https://github-readme-stats.vercel.app/api?username=vyaradel&show_icons=true&theme=cobalt)
+![Top Langs]( https://github-readme-stats.vercel.app/api/top-langs/?username=vyaradel&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 
