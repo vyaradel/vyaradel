@@ -14,10 +14,7 @@
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="TypeScript" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Babel" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/babel/babel-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Figma" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/figma/figma-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Firebase" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />
 <br />
