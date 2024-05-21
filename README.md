@@ -1,7 +1,7 @@
 ### Hi there , welcome to my portfolio👋
 
 - 🔭 My latest project is BrainBurst - web app for educative purposes
-- ⚡I’m currently learning TypeScript, Java, Phyton
+- ⚡IBM Software Engineering Intern
 - 👯 I’m looking to collaborate on technologies associated with Blockchain & Web3 / DevOps
 - 💻 NBU student / Information technologies
 - 🌱 Telerik Academy Pupil
