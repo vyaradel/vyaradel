@@ -2,7 +2,7 @@
 
 - 🔭 My latest project is BrainBurst - web app for educative purposes
 - ⚡IBM Software Engineering Intern
-- 👯 I’m looking to collaborate on technologies associated with Blockchain & Web3 / DevOps
+- 👯 I’m looking to collaborate on technologies associated with Blockchain & Web3 
 - 💻 NBU student / Information technologies
 - 🌱 Telerik Academy Pupil
 
