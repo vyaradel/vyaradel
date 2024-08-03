@@ -1,9 +1,9 @@
 ### Hi there , welcome to my portfolio👋
-
+- 🏦 Currently working on: Stock Insights - web app for financial and stock updates 
 - 🔭 My latest project is BrainBurst - web app for educative purposes
-- ⚡IBM Software Engineering Intern
+- ⚡ IBM Software Engineering Intern
 - 👯 I’m looking to collaborate on technologies associated with Blockchain & Web3 
-- 💻 NBU student / Information technologies
+- 👩🏼‍💻 NBU student / Information technologies
 - 🌱 Telerik Academy Pupil
 
 
