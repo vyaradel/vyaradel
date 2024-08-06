@@ -6,7 +6,7 @@
 - 👩🏼‍💻 NBU student / Information Technologies
 - 🌱 Telerik Academy Pupil
 
-
+---
 
 <a href="https://app.daily.dev/vyaravalentine"><img src="https://api.daily.dev/devcards/v2/68CiM280ZgOl0mVnhdjiV.png?r=3dy&type=default" width="356" alt="Vyara Delcheva's Dev Card"/></a>
 
