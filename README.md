@@ -1,7 +1,6 @@
 ### Hi there , welcome to my profile👋
 
 - 👩🏼‍💻 Web Dev
-- ⛓️‍💥 Interested in Blockchain & Web3 
 - 👩🏼‍🎓 NBU student / Information Technologies
 - 🌱 Telerik Academy Pupil
 
